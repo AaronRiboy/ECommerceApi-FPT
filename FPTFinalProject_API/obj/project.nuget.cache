@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S1qA/7wiN1kyTRMdSmeiQv/6aihseKZ89e4ysz3r/fUwCIogq5xoyO0fudc8uLoxoQnZurWNca3cr0KptpxFdw==",
+  "dgSpecHash": "igJxHrUrFMLq5ltB69l4gJXszo8s5T9hsqsP8m3tWdTGEEJSl7AzJG/pDUh/PMxM76mBrtl9ECIMrMw9O6lmhw==",
   "success": true,
-  "projectFilePath": "/Users/aaron/Projects/ECommerceApi-FPT/FPTFinalProject_API/FPTFinalProject_API/FPTFinalProject_API.csproj",
+  "projectFilePath": "/Users/aaron/Projects/ECommerceApi-FPT/FPTFinalProject_API/FPTFinalProject_API.csproj",
   "expectedPackageFiles": [
     "/Users/aaron/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/Users/aaron/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

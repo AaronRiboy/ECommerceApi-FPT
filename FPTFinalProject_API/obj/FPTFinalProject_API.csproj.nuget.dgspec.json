@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aaron/Projects/ECommerceApi-FPT/FPTFinalProject_API/FPTFinalProject_API/FPTFinalProject_API.csproj": {}
+    "/Users/aaron/Projects/ECommerceApi-FPT/FPTFinalProject_API/FPTFinalProject_API.csproj": {}
   },
   "projects": {
-    "/Users/aaron/Projects/ECommerceApi-FPT/FPTFinalProject_API/FPTFinalProject_API/FPTFinalProject_API.csproj": {
+    "/Users/aaron/Projects/ECommerceApi-FPT/FPTFinalProject_API/FPTFinalProject_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aaron/Projects/ECommerceApi-FPT/FPTFinalProject_API/FPTFinalProject_API/FPTFinalProject_API.csproj",
+        "projectUniqueName": "/Users/aaron/Projects/ECommerceApi-FPT/FPTFinalProject_API/FPTFinalProject_API.csproj",
         "projectName": "FPTFinalProject_API",
-        "projectPath": "/Users/aaron/Projects/ECommerceApi-FPT/FPTFinalProject_API/FPTFinalProject_API/FPTFinalProject_API.csproj",
+        "projectPath": "/Users/aaron/Projects/ECommerceApi-FPT/FPTFinalProject_API/FPTFinalProject_API.csproj",
         "packagesPath": "/Users/aaron/.nuget/packages/",
-        "outputPath": "/Users/aaron/Projects/ECommerceApi-FPT/FPTFinalProject_API/FPTFinalProject_API/obj/",
+        "outputPath": "/Users/aaron/Projects/ECommerceApi-FPT/FPTFinalProject_API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aaron/.nuget/NuGet/NuGet.Config"

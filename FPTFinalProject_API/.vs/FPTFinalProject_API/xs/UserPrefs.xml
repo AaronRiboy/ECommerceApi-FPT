@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{561D6CB6-695E-4876-9D34-557EAB93D3B6}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.ItemProperties.FPTFinalProject__API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FPTFinalProject_API/Model/User.cs">
+    <Files>
+      <File FileName="FPTFinalProject_API/Program.cs" />
+      <File FileName="FPTFinalProject_API/appsettings.json" />
+      <File FileName="FPTFinalProject_API/WeatherForecast.cs" />
+      <File FileName="FPTFinalProject_API/Properties/launchSettings.json" />
+      <File FileName="FPTFinalProject_API/Controllers/WeatherForecastController.cs" />
+      <File FileName="FPTFinalProject_API/Model/User.cs" Line="17" Column="1" />
+      <File FileName="FPTFinalProject_API/Data/DataContext.cs" />
+      <File FileName="FPTFinalProject_API/Migrations/20231002063434_Initial.cs" />
+      <File FileName="FPTFinalProject_API/Model/UserRegisterRequest.cs" />
+      <File FileName="FPTFinalProject_API/Controllers/UserController.cs" />
+      <File FileName="FPTFinalProject_API/FPTFinalProject_API.csproj" />
+      <File FileName="FPTFinalProject_API/Model/UserLoginRequest.cs" />
+      <File FileName="FPTFinalProject_API/Model/ResetPasswordRequest.cs" />
+      <File FileName="FPTFinalProject_API/Migrations/DataContextModelSnapshot.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FPTFinalProject_API">
+            <Node name="FPTFinalProject_API" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Model" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
