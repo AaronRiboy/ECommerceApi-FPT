@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/FPTFinalProject_API.props" />
+</Project>
